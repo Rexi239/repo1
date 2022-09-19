@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/plotnii/Documents/GitHub/repo1/test_CLion_pr Select CMakeLists.txt

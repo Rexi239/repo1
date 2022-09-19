@@ -11,5 +11,5 @@ int main() {
 }
 void settings_default()
 {
-    cout << "Default settings:" << "\n" << "g = 9.81" << "\n" << "pi = 3.14";
+    cout << "Default settings:" << '\n' << "g = 9.81" << '\n' << "pi = 3.14";
 }
